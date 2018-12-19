@@ -1,0 +1,13 @@
+﻿  lab_4.cpp
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\parser.h(28): warning C4101: 'countY': unreferenced local variable
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\parser.h(27): warning C4101: 'countX': unreferenced local variable
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\parser.h(29): warning C4101: 'countAll': unreferenced local variable
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\zvector.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\matrix.h(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\matrix.h(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\matrix.h(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\matrix.h(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\matrix.h(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\matrix.h(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\i347859\onedrive - sap se\desktop\mmmspis\laboratoryworks\budyukina_elena\lab 4\lab_4\lab_4\lab_4.cpp(46): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  lab_4.vcxproj -> C:\Users\i347859\OneDrive - SAP SE\Desktop\MMMSPiS\LaboratoryWorks\Budyukina_Elena\Lab 4\lab_4\Debug\lab_4.exe
